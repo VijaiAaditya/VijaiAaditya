@@ -26,3 +26,5 @@ AWS – IAM, EC2, RDS
 ## Connect With Me
 - 💼 LinkedIn: [https://www.linkedin.com/in/vijayadityab/](#) 📫 Reach me here : ...
 - 🌎 Website: [Website](#)
+
+![image](https://github.com/user-attachments/assets/04ba5c20-bc6d-4949-9c1d-10698ac24b7c)
