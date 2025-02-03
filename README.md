@@ -18,6 +18,8 @@
 ## Technically ....................,
 
 - C# ASP.Net MVC, Core MVC, Web API, HTML5, Javascript, jQuery, SQL, Blazor, Python,
+- Azure pass like Azure Active Directory & B2C, RBAC, Key Vault, App Services (Web / Functions / Static Apps), Azure SQL, Blob Storage, Azure Management API, Application Insights, Log Analytics, Azure Pipelines, Service Bus.
+AWS – IAM, EC2, RDS
 - Media Pipes - Unity found some interesting ways, Indian Traditional Board Games
 - Node MCU, Raspberry Pi.
 
