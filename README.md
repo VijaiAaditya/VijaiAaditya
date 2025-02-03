@@ -14,6 +14,12 @@
 
 ## Current Interests
 - 🌞 **Solar power plant business & healthy cooking, Biological Age Secrets, Ayurveda & Live with Nature**.
+  
+## Technically ....................,
+
+- C# ASP.Net MVC, Core MVC, Web API, HTML5, Javascript, jQuery, SQL, Blazor, Python,
+- Media Pipes - Unity found some interesting ways, Indian Traditional Board Games
+- Node MCU, Raspberry Pi.
 
 ## Connect With Me
 - 💼 LinkedIn: [https://www.linkedin.com/in/vijayadityab/](#) 📫 Reach me here : ...
