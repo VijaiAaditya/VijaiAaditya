@@ -4,7 +4,7 @@
 
 ## About Me
 - 🌍 Based in **Bangalore, India**, originally from **Konaseema**.
-- 💻 **Software Engineer** with **12 years of experience** in to **.NET Full Stack, Azure Paas, .Net Core, Blazor **.
+- 💻 **Software Engineer** with **12 years of experience** in to **.NET Full Stack, Azure Paas, .Net Core, Blazor**.
 - 🎯 Passionate about **Full stack web development, product management, innovation, and entrepreneurship**.
 - 🎓 B.Tech in **Computer Science & Engineering** from JNTU Kakinada & Masters in **Cyber Security** from IIIT Banglore.
 - 🚀 Exploring tech stack like **Azure Paas, Blazor, Logic Apps, & Function Apps** No Code, Quant developer.
