@@ -13,11 +13,11 @@
 - 🥗 Analytical mind with interest in Travel and living a balanced life filled with growth, love, and innovation!
 
 ## Current Interests
-- 🌞 **Solar power plant business & healthy cooking, Biological Age Secrets, Ayurveda & Live with Nature**.
+- 🌞 **Solar Farming & healthy Foof=d, Biological Age Secrets, Ayurveda & Live with Nature, Farming Tech, Drones, AI **.
   
 ## Technically ....................,
 
-- C#, ASP.Net MVC, Core MVC, Web API, HTML5, Javascript, jQuery, SQL, Blazor, Python,
+- C#, ASP.NET MVC, Core MVC, Web API, HTML5, JavaScript, jQuery, SQL, Blazor, Python, Node.js,
 - Azure PaaS like Azure Active Directory & B2C, RBAC, Key Vault, App Services (Web Apps / Functions Apps/ Logic Apps / Static Apps), Azure SQL, Blob Storage, Azure Management API, Application Insights, Log Analytics, Azure Pipelines, Service Bus.
 AWS – IAM, EC2, RDS
 - Media Pipes - Unity found some interesting ways, Indian Traditional Board Games
