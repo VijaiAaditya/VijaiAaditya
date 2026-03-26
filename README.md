@@ -7,7 +7,7 @@
 - 💻 **Software Engineer** with **12 years of experience** in to **.NET Full Stack, Azure Paas, .Net Core, Blazor**.
 - 🎯 Passionate about **Full-stack web development, product management, innovation, and entrepreneurship**.
 - 🎓 B.Tech in **Computer Science & Engineering** from JNTU Kakinada & Masters in **Cyber Security** from IIIT Banglore.
-- 🚀 Exploring tech stack like **Azure Paas, Blazor, Logic Apps, & Function Apps** No Code, Quant developer.
+- 🚀 Exploring tech stack like **Azure Paas, Blazor, Logic Apps, & Function Apps** No Code, Quant developer, AI, Blockchain.
 - 🌱 Beyond job working on interesting stuff like **Internet Of Things, Solar energy solutions, Augmented / Virtual Reality (Binaural Audio), Google Media Pipes, 360 videos & Telescope at Night**.
 - 🎵 Planning to learn the **piano** & Swim, exploring new places, and long drives.
 - 🥗 Analytical mind with interest in Travel and living a balanced life filled with growth, love, and innovation!
