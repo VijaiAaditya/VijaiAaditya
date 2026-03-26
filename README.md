@@ -13,7 +13,7 @@
 - 🥗 Analytical mind with interest in Travel and living a balanced life filled with growth, love, and innovation!
 
 ## Current Interests
-- 🌞 **Solar Farming & healthy Foof=d, Biological Age Secrets, Ayurveda & Live with Nature, Farming Tech, Drones, AI **.
+- 🌞 **Solar Farming & healthy Food, Biological Age Secrets, Ayurveda & Live with Nature, Farming Tech, Drones, AI**.
   
 ## Technically ....................,
 
